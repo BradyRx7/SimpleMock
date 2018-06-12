@@ -5,7 +5,10 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * @author Brady Reed <Brady_Reed@student.uml.edu>
+ * Created for Umass Lowell INFO2970
+ * 
+ * Unit tests for simple Mocking example using Mockito
  */
 public class StockTickerTest 
     extends TestCase

@@ -1,8 +1,10 @@
 package edu.bradyreed.advancedjava;
 
 /**
- * Hello world!
- *
+ * @author Brady Reed <Brady_Reed@student.uml.edu>
+ * Created for Umass Lowell INFO2970
+ * 
+ * Simple Mocking example using Mockito
  */
 public class StockTicker 
 {
